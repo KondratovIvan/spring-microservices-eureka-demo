@@ -3,6 +3,7 @@
 * Clone the repository:
 ```bash
 git clone https://github.com/KondratovIvan/spring-microservices-eureka-demo
+```
 
 * Create a few instances of any client app in IDE Run/Debug configuration (for greater clarity):
 ![image](https://github.com/KondratovIvan/spring-microservices-eureka-demo/assets/94958641/2e6b8fd3-1dc8-4cc1-890d-0f042dc78219)
